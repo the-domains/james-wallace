@@ -1,4 +1,3 @@
-layout_spectrum: 0.6706408823374659
 typography_spectrum: 0.7943052710033953
 color:
   brandStrength: 0.3461558292619884
@@ -6,9 +5,11 @@ color:
   saturation: 0.92436582618393
   rhythmicContrast: 0.311841681599617
   brandColors:
-    - '#FFF9EC'
-    - '#0D0F1D'
-    - '#D09575'
-    - '#554843'
-    - '#422429'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.6706408823374659
 name: James Wallace
+title: James Wallace
